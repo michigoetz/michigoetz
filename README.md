@@ -14,6 +14,29 @@ At Celonis, I've scaled Product Management, led the Office of the CTO, and built
 My systems-thinking mindset was shaped early—standing in my parents' backyard in rural Bavaria watching fighter jets overhead. That fascination led me to study aerospace engineering, where I specialized in lightweight structures and future aircraft concepts. Whether designing sideward-retractable seats or challenging sustainability assumptions, I've always approached problems with creativity and rigor.
 Beyond Celonis, I advocate as speaker and join podcasts on Technical Program Management, organize community events (Munich, Madrid, New York - TPM Trails), and speak at industry conferences to help elevate the TPM craft globally next to taking my paraglider to the mountains, sailing with friends, or enjoy backcountry skiing to refule my energy.
 
+## 📘 New Book: The Technical Program Manager's Guide to Practical AI
+
+**[The Technical Program Manager's Guide to Practical AI](https://a.co/d/0auAzX6M)** - *Workflows and Frameworks for Smarter, Faster, Higher-Impact TPM Execution* (Packt, 2026)
+
+Co-authored with Liana Gevorgyan, Joshua Alan Teter, James Dayhuff, Malvika Sinha and Aadil Maan. #1 New Release in Engineering Project Management on Amazon.
+
+### What it's about
+TPMs operate in environments where scale, speed, and cross-functional coordination often exceed human capacity. This book shows you how to use AI across the TPM lifecycle to reduce operational overhead, accelerate decision-making, and increase strategic impact.
+
+Each chapter combines hands-on AI use cases, a repeatable framework (**inputs → AI assist → human verification → output**), and practical guidance for TPM workflows: planning, technical reviews, dependency management, risk analysis, status reporting, stakeholder communication, workflow automation, portfolio health reporting, hiring, talent growth, and career management. It also covers prompt engineering, AI agents, governance, and how to evaluate AI tools in enterprise environments.
+
+### What you'll learn
+- AI tools, concepts and methodologies
+- AI agents, workflows and their creation
+- Effective and responsible prompt engineering frameworks
+- AI strategies throughout the program lifecycle
+- AI strategies supporting TPM leaders
+- AI automations for career management
+- Balancing human input (EQ) with AI-driven automation
+
+- 📖 [Paperback](https://a.co/d/0auAzX6M) · [Kindle](https://a.co/d/08ga5KSB)
+- 💻 [Companion repo](https://github.com/PacktPublishing/Technical-Program-Manager-s-Guide-to-Practical-AI) - free prompts and examples, organized by chapter
+
 ## 💡 Skills & Expertise
 - **Technical Program Management:** Portfolio & roadmap execution across multi-team, multi-site orgs; program governance; end-to-end delivery from strategy
 - **Scaling Product, CTO Office & TPM organsiations:** Building and leading global TPM teams; operating models, rituals, and standards; mentoring & career development
@@ -25,10 +48,10 @@ Beyond Celonis, I advocate as speaker and join podcasts on Technical Program Man
 
 | Repository | What's inside |
 |---|---|
-| [tpm-use-cases](https://github.com/michigoetz-tpm/tpm-use-cases) | TPM AI use cases — skills, agents, and prompt workflows for TPM teams |
-| [technical-program-management-skills](https://github.com/michigoetz-tpm/technical-program-management-skills) | Technical Program Management skills library |
-| [tpm-breakdowns](https://github.com/michigoetz-tpm/tpm-breakdowns) | Markdown archive of published TPM Breakdowns articles |
-| [tpm-advent-calendar-2025](https://github.com/michigoetz-tpm/tpm-advent-calendar-2025) | TPM Advent Calendar 2025 — 24 days of TPM insights |
+| [tpm-use-cases](https://github.com/michigoetz/tpm-use-cases) | TPM AI use cases — skills, agents, and prompt workflows for TPM teams |
+| [technical-program-management-skills](https://github.com/michigoetz/technical-program-management-skills) | Technical Program Management skills library |
+| [tpm-breakdowns](https://github.com/michigoetz/tpm-breakdowns) | Markdown archive of published TPM Breakdowns articles |
+| [tpm-advent-calendar-2025](https://github.com/michigoetz/tpm-advent-calendar-2025) | TPM Advent Calendar 2025 — 24 days of TPM insights |
 
 ## 🚀 Writing about TPM, Engineering, and Leadership
 I enjoy sharing templates, micro guides, action items for TPMs, Engineers, Managers and Leadership
